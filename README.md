@@ -1,6 +1,6 @@
 # instrait
 <img src="https://cdn.discordapp.com/attachments/746711346355109959/756031666224496670/instrait.png" alt=" ">
-A closed source Windows, MacOS and Linux backup utility I made. Backup your files easily via the inCloud, a partition or an external hard drive. Easy, fast, and efficient. Free forever.
+A closed source Windows, MacOS and Linux backup utility our founder, geneva, made. Backup your files easily via the inCloud, a partition or an external hard drive. Easy, fast, and efficient. Free forever.
 
 # Downloads
 <p>
